@@ -1,2 +1,2 @@
 # crud_c#
-CRUD com c# utilizando a arquitetura MVC e .NET6.
+CRUD com c# utilizando a arquitetura MVC, com .NET6 e Postgres.
